@@ -2,7 +2,7 @@
 
 TacoCloud는 Spring Boot 기반으로 설계된 다중 모듈 프로젝트입니다. 이 프로젝트는 실제 환경에서의 주문 관리 시스템, 메시징, API 설계, 보안, 데이터 연동 등 다양한 스프링 기술 스택을 활용하여 학습 및 실습을 목적으로 구성되었습니다.
 
-SpringInAction교재 예제를 참고하여 만들었습니다.
+> SpringInAction 교재의 예제를 참고하여, Spring Boot 3.0 및 Spring Framework 6 환경에 최적화된 코드로 재작성하였습니다
 ---
 
 ## 포함된 모듈 설명
